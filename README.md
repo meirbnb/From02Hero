@@ -9,8 +9,6 @@ This project is a starting point for a Flutter application.
 <p>
 <img src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/1.jpg" data-canonical-src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/1.jpg" width="250"/>
  
-<img src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/2.jpg" data-canonical-src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/2.jpg" width="250"/>
- 
 <img src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/3.jpg" data-canonical-src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/3.jpg" width="250"/>
 
 <img src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/4.jpg" data-canonical-src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/4.jpg" width="250"/>
