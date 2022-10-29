@@ -1,10 +1,6 @@
-# From02Hero
-
-A new Flutter project.
+# From02Hero is an Android arithmetic game written in Flutter.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 <p>
 <img src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/1.jpg" data-canonical-src="https://github.com/meirbnb/From02Hero/blob/main/screenshots/1.jpg" width="250"/>
